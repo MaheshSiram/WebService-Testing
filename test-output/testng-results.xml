@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2789" started-at="2017-02-01T17:05:29Z" finished-at="2017-02-01T17:05:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2789" started-at="2017-02-01T17:05:29Z" finished-at="2017-02-01T17:05:32Z">
+      <class name="com.Mahesh.testscripts.TC_001">
+        <test-method status="PASS" signature="steup()[pri:0, instance:com.Mahesh.testscripts.TC_001@48eff760]" name="steup" is-config="true" duration-ms="8" started-at="2017-02-01T09:05:29Z" finished-at="2017-02-01T09:05:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- steup -->
+        <test-method status="PASS" signature="Get()[pri:0, instance:com.Mahesh.testscripts.TC_001@48eff760]" name="Get" duration-ms="2193" started-at="2017-02-01T09:05:29Z" finished-at="2017-02-01T09:05:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get -->
+        <test-method status="PASS" signature="Post()[pri:0, instance:com.Mahesh.testscripts.TC_001@48eff760]" name="Post" duration-ms="550" started-at="2017-02-01T09:05:31Z" finished-at="2017-02-01T09:05:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post -->
+      </class> <!-- com.Mahesh.testscripts.TC_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
