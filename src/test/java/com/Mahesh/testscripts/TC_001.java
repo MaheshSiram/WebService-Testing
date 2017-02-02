@@ -21,7 +21,7 @@ public class TC_001 {
 		String url = com.Mahesh.utills.URL.fixedURL+com.Mahesh.utills.EndPointURL.POST.resourcePath();
 		response = com.Mahesh.webservices.webservices.Get(url);
 		System.out.println(response.getBody().asString());
-		System.out.println("******************************************************************");
+	
 }
 	
 

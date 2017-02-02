@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="2789" started-at="2017-02-01T17:05:29Z" finished-at="2017-02-01T17:05:32Z">
+  <suite name="Default suite" duration-ms="2002" started-at="2017-02-01T21:17:00Z" finished-at="2017-02-01T21:17:02Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="2789" started-at="2017-02-01T17:05:29Z" finished-at="2017-02-01T17:05:32Z">
+    <test name="Default test" duration-ms="2002" started-at="2017-02-01T21:17:00Z" finished-at="2017-02-01T21:17:02Z">
       <class name="com.Mahesh.testscripts.TC_001">
-        <test-method status="PASS" signature="steup()[pri:0, instance:com.Mahesh.testscripts.TC_001@48eff760]" name="steup" is-config="true" duration-ms="8" started-at="2017-02-01T09:05:29Z" finished-at="2017-02-01T09:05:29Z">
+        <test-method status="PASS" signature="steup()[pri:0, instance:com.Mahesh.testscripts.TC_001@48eff760]" name="steup" is-config="true" duration-ms="8" started-at="2017-02-01T13:17:00Z" finished-at="2017-02-01T13:17:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- steup -->
-        <test-method status="PASS" signature="Get()[pri:0, instance:com.Mahesh.testscripts.TC_001@48eff760]" name="Get" duration-ms="2193" started-at="2017-02-01T09:05:29Z" finished-at="2017-02-01T09:05:31Z">
+        <test-method status="PASS" signature="Get()[pri:0, instance:com.Mahesh.testscripts.TC_001@48eff760]" name="Get" duration-ms="1625" started-at="2017-02-01T13:17:00Z" finished-at="2017-02-01T13:17:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Get -->
-        <test-method status="PASS" signature="Post()[pri:0, instance:com.Mahesh.testscripts.TC_001@48eff760]" name="Post" duration-ms="550" started-at="2017-02-01T09:05:31Z" finished-at="2017-02-01T09:05:32Z">
+        <test-method status="PASS" signature="Post()[pri:0, instance:com.Mahesh.testscripts.TC_001@48eff760]" name="Post" duration-ms="346" started-at="2017-02-01T13:17:02Z" finished-at="2017-02-01T13:17:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Post -->
